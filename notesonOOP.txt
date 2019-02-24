@@ -1,0 +1,29 @@
+/*
+1.Why use OOP?
+
+It is used to model real-world objects(living things or innanimate things.)
+
+2. 4 pillars of OOP are:
+  - abstraction : hiding the details of how your object interacts
+    simple model of a complex thing
+  - inheritance : property where a subclass is a child of a parent class
+  - encapsulation : packaging data inside an object
+  - polymorphism : ability of many object types to have the same functionality
+  -
+
+3. Difference between class and object:
+A class represents the model for an object.
+The object is an instance of the model.
+
+4. What are constructors?
+These are methods/functions that are used to create an instance of a class.
+These can be specified with parameters or no parameters
+These are always capitalized.
+
+
+5. What are destructors?
+Methods of an object that carry out the destruction of the instance.
+Usually, releasing the memory and dealing with any logic.
+
+
+*/
