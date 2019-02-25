@@ -25,5 +25,7 @@ These are always capitalized.
 Methods of an object that carry out the destruction of the instance.
 Usually, releasing the memory and dealing with any logic.
 
+Sources:
+https://www.rainerhahnekamp.com/en/javascript-and-object-oriented-programming/
 
 */
